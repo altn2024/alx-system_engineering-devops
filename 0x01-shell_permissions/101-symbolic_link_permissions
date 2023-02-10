@@ -1,2 +1,2 @@
 #!/bin/bash
-chgown -hR vincent:staff_hello
+chgown -h vincent:staff _hello
